@@ -1,0 +1,18 @@
+.page-header {
+  background: linear-gradient(rgba(22, 22, 22, 0.7), rgba(22, 22, 22, 0.7)),
+    url(../images/sample.jpg) center center no-repeat;
+  background-size: cover;
+}
+p {
+  text-align: justify;
+  display: block;
+}
+
+p {
+  font-family: ElsevierGulliver, Georgia, Times New Roman, Times, STIXGeneral,
+    Cambria Math, Lucida Sans Unicode, Microsoft Sans Serif, Segoe UI Symbol,
+    Arial Unicode MS, serif !important;
+}
+.collection h4 {
+  margin-top: 12px;
+}

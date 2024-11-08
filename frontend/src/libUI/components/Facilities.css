@@ -1,0 +1,13 @@
+.facility-page {
+  background: linear-gradient(rgba(22, 22, 22, 0.7), rgba(22, 22, 22, 0.7)),
+    url(./images/facility.jpg) center center no-repeat;
+  background-size: cover;
+}
+p {
+  text-align: justify;
+  display: block;
+}
+.first {
+  width: 100%;
+  height: 80%;
+}

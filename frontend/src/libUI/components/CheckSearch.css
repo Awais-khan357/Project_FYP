@@ -1,0 +1,16 @@
+.form-control:focus {
+  border-color: #ced4da;
+  box-shadow: none;
+}
+.form-select:focus {
+  border-color: #ced4da;
+  box-shadow: none;
+}
+.search-btn .btn {
+  background-color: white;
+  color: black;
+  font-size: 17px;
+}
+.search-btn .btn:hover {
+  background-color: rgb(234, 139, 16);
+}

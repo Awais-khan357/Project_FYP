@@ -1,0 +1,116 @@
+
+section {
+   float: left;
+   width: 100%;
+   background: #fff;
+   padding: 30px 0;
+}
+
+
+h1 {
+   float: left;
+   width: 100%;
+   color: #232323;
+   margin-bottom: 30px;
+   font-size: 14px;
+}
+
+h1 span {
+   display: block;
+   font-size: 45px;
+   text-transform: none;
+   margin-bottom: 20px;
+   margin-top: 30px;
+   font-weight: 700;
+}
+
+h1 a {
+   color: #131313;
+   font-weight: bold;
+}
+/*Profile Card 3*/
+.profile-card-3 {
+   position: relative;
+   float: left;
+   overflow: hidden;
+   width: 100%;
+   text-align: center;
+   height: 619px;
+   border-radius: 0px 0px 0px 0px;
+}
+
+.profile-card-3 .background-block {
+    background-size: cover;
+}
+
+.profile-card-3 .background-block .background {
+   width: 100%;
+   height: 90%;
+   vertical-align: top;
+}
+
+.profile-card-3 .card-content {
+   width: 100%;
+   padding: 15px 25px;
+   color: #000000;
+   float: left;
+}
+
+.profile-card-3 .profile {
+   border-radius: 50%;
+   position: absolute;
+   bottom: 55%;
+   left: 50%;
+   height: 132px;
+   width: 134px;
+   box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.5);
+   border: 1px solid rgb(255, 255, 255);
+   -webkit-transform: translate(-50%, 0%);
+   transform: translate(-50%, 0%);
+   z-index: 99999;
+}
+
+.profile-card-3 .name {
+    text-align: center;
+    font-weight: bold;
+    font-size: 27px;
+    text-emphasis: spacing;
+    margin-bottom: 5px;
+  }
+
+  .card-desc {
+    font-size: 17px;
+    font-weight: bold;
+    background-color: #29166f;
+    color: white;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 36px;
+  }
+
+  .profile-card-3 .program {
+    margin-top: 5px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    text-emphasis: spacing;
+    margin-bottom: 15px;
+  }
+  .barcode {
+    text-align: center;
+    top: 26px;
+  }
+  .barcode img {
+    height: 50px;
+    width: 151px;
+    text-align: center;
+    margin-top: 7px;
+  }
+  .text{
+    font-size:x-small;
+    font-weight:bolder;
+    line-height: 1.3rem;
+  }
+

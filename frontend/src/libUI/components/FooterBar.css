@@ -1,0 +1,30 @@
+.social-links span {
+  font-size: 19px;
+  display: inline-block;
+  background: rgb(182, 158, 25);
+  color: #fff;
+  line-height: 1;
+  padding: 8px 0;
+  margin-right: 8px;
+  border-radius: 50%;
+  text-align: center;
+  width: 36px;
+  height: 36px;
+  transition: 0.3s;
+}
+
+.social-links span:hover {
+  background: #e0b936;
+  color: #fff;
+  text-decoration: none;
+}
+
+.create{
+  display: inline;
+  font-size: 19px;
+  font-weight: 600;
+}
+
+.create a {
+  color: #e0b936;
+}

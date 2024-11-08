@@ -1,0 +1,73 @@
+.list-inline {
+  overflow: hidden;
+  li {
+    float: left;
+  }
+}
+.subPage-Font {
+  text-align: justify;
+  font-family: ElsevierGulliver, Georgia, Times New Roman, Times, STIXGeneral,
+      Cambria Math, Lucida Sans Unicode, Microsoft Sans Serif, Segoe UI Symbol,
+      Arial Unicode MS, serif !important;
+}
+
+.col-md-3 .nav-box {
+  --default-color-rgb: 33, 37, 41;
+  padding: 20px;
+  box-shadow: 0px 2px 20px rgba(var(--default-color-rgb), 0.12);
+}
+
+.col-md-3 .nav-box h4 {
+  --bs-heading-color: rgb(82, 68, 68);
+  text-align: center;
+  font-size: 20px;
+  font-weight: 700;
+  border-bottom: 2px solid rgba(var(--default-color-rgb), 0.08);
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+}
+
+.nav-box ul {
+  list-style: none;
+  padding: 0;
+  margin-left: 5px;
+  line-height: 2;
+}
+
+.main-nav li {
+  background-color: rgb(241, 247, 246);
+  padding: 8px;
+  color: #020202;
+  font-size: 1.04rem;
+  padding-left: 20px;
+  text-align: left;
+  transform: lowercase;
+}
+
+.main-nav .list-hover-slide a {
+  text-decoration: none !important;
+}
+
+.main-nav .link {
+  cursor: pointer;
+}
+
+.list-hover-slide li {
+  position: relative;
+  transition: 0.35s ease color;
+}
+
+.list-hover-slide li.active {
+  background-color: #091961;
+  color: white;
+}
+
+.list-hover-slide li:hover {
+  background-color: rgb(241, 247, 246);
+  color: red;
+  transition: 0.35s ease color;
+}
+
+.content {
+  text-align: justify;
+}

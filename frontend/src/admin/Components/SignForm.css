@@ -1,0 +1,42 @@
+.contains{
+    background-color: rgb(239, 241, 241);
+}
+
+.dashed-input {
+    border: none;
+    border-bottom: 1px dashed #000;
+    margin-bottom: 12px;
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    outline: none;
+    background: transparent;
+    font-size:x-large;
+  }
+  
+  .dashed-input:focus {
+    outline: none;
+    border-bottom: 1px dashed #000;
+  }
+  
+  textarea.dashed-input {
+    height: auto;
+    resize: none;
+    font-size: large;
+  }
+  .col-form-label{
+    font-weight: 500;
+    font-size: large;
+  }
+
+  .sign{
+    margin-top: 80px;
+    margin-bottom: 26px;
+  }
+
+  .chairman {
+    margin-left: 88px;
+  }
+
+  .provost{
+    margin-left: 68px;
+  }

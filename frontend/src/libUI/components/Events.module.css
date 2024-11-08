@@ -1,0 +1,20 @@
+.eventPage {
+  background: linear-gradient(rgba(22, 22, 22, 0.7), rgba(22, 22, 22, 0.7)),
+    url(./images/events.jpg) center center no-repeat;
+  background-size: cover;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  text-align: justify;
+}
+.socialLinks ul {
+  display: flex;
+  margin-top: 9px;
+  list-style-type: none;
+  justify-content: start;
+}
+.socialLinks li {
+  display: flex;
+  padding: 8px;
+  font-size: 2rem;
+  color: #d462ad;
+}

@@ -1,0 +1,48 @@
+.featured-block {
+  text-align: center;
+  transition: all 0.5s ease;
+  height: 200px;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: rgb(24, 24, 93);
+  color: white;
+}
+.badge-text {
+  color: white;
+}
+
+.featured-block:hover {
+  transform: scale(1.03);
+  background-color: white;
+  color: rgb(24, 24, 93);
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.8), 0 0 20px rgba(0, 0, 0, 0.2);
+}
+.featured-block:hover .icon {
+  color: rgb(24, 24, 93);
+}
+.featured-block:hover .badge-text {
+  color: rgb(24, 24, 93);
+}
+
+.d-block {
+  display: block !important;
+}
+
+a {
+  text-decoration: none;
+}
+
+.icon {
+  border-radius: 50%;
+  display: table;
+  height: 90px;
+  margin: 1rem auto 1rem;
+  width: 100px;
+  font-size: 3rem;
+  color: white;
+}
+
+.icon span {
+  display: table-cell;
+  vertical-align: center;
+}

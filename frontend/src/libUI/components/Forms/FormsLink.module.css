@@ -1,0 +1,15 @@
+.formHeader {
+  background: linear-gradient(rgba(22, 22, 22, 0.7), rgba(22, 22, 22, 0.7)),
+    url(../images/register.jpg) center center no-repeat;
+  background-size: cover;
+}
+.back {
+  background-color: #f3f3fe;
+}
+.background {
+  box-shadow: 0 4px 4px rgba(87, 100, 126, 0.21);
+  padding: 30px;
+  background-color: white;
+  border-radius: 1rem;
+  margin-bottom: 12px;
+}

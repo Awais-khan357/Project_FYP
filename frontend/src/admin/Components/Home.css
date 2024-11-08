@@ -1,0 +1,22 @@
+.products{
+    background-color: #fa6342;
+    color: white;
+}
+.sales{
+    background-color: #36c6d3;
+    color: white;
+}
+.delivery{
+    background-color: #337ab7;
+    color: white;
+}
+.stock{
+    background-color: #1abc9c;
+    color: white;
+}
+
+.table{
+    --bs-table-bg: #0E1726;
+    --bs-table-color: #c9bfbf;
+    --bs-table-striped-bg: rgb(115 82 82 / 5%)
+}

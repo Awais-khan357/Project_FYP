@@ -1,0 +1,37 @@
+.about-section {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.about-image {
+  border-radius: 1rem;
+  display: block;
+  width: 350px;
+  height: 400px;
+  object-fit: cover;
+}
+.about-image {
+  max-width: 100%;
+}
+.custom-text-block {
+  padding: 60px 40px;
+}
+
+.custom-text-block {
+  p {
+    color: var(--p-color);
+    font-size: var(--p-font-size);
+    font-weight: var(--font-weight-light);
+    text-align: justify;
+  }
+  p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+  }
+}
+
+.social-icons span {
+  margin-right: 14px;
+  font-size: 30px;
+  text-align: justify;
+}

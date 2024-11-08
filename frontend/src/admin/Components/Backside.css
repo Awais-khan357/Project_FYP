@@ -1,0 +1,70 @@
+.back {
+  height: 580px;
+  width: 364px;
+  background-color: white;
+  text-align: center;
+}
+.Details {
+  color: white;
+  text-align: center;
+  background-color: #071653;
+  font-weight: 600;
+  font-size: 19px;
+}
+
+ .head {
+  padding-top: 1px;
+    font-weight: 600;
+    background-color: #071653;
+    color: white;
+    font-size: 18px;
+}
+
+.details-info p {
+  margin-top: 7px;
+  text-align: left;
+  font-size: 16px;
+  margin-left: 16px;
+  font-weight: 600;
+  margin-bottom: 0px !important;
+  display: block !important;
+}
+
+h4 {
+  padding: 0px !important;
+  margin: 0px !important;
+}
+.cards-text {
+  font-size: 13px;
+  font-weight: 500;
+  text-align: justify;
+  text-align: center;
+  font-style: italic;
+  color: rgb(93, 130, 182);
+}
+.back .tail  {
+  font-size: 13px;
+  font-weight: 500;
+  text-align: justify;
+  text-align: center;
+  font-style: italic;
+  color: rgb(0, 0, 0);
+  margin-top: 15px;
+}
+.logo {
+  height: 60px;
+  width: 150px;
+  padding: 40px;
+}
+
+.uop {
+  height: 98px;
+  width: 369px;
+}
+.footer {
+  padding: 6px;
+  font-weight: 600;
+  background-color: #071653;
+  color: white;
+  font-size: 14px;
+}

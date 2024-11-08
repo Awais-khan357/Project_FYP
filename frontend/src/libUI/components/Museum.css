@@ -1,0 +1,29 @@
+.Museum-page {
+  background: linear-gradient(rgba(22, 22, 22, 0.7), rgba(22, 22, 22, 0.7)),
+    url(./images/museum.jpeg) center no-repeat;
+  background-size: cover;
+}
+
+.mesuem .top-heading h1 {
+  padding-left: 108px;
+  font-weight: bold;
+  color: rgb(50, 112, 90);
+}
+.smallerCard {
+  height: 610px;
+}
+.socialLinks ul {
+  display: flex;
+  margin-top: 9px;
+  list-style-type: none;
+  justify-content: start;
+}
+.mesuemLinks {
+  padding-left: 40px;
+}
+.socialLinks li {
+  display: flex;
+  padding: 8px;
+  font-size: 2rem;
+  color: #d462ad;
+}

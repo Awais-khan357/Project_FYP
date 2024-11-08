@@ -1,0 +1,9 @@
+.list-group a{
+    background-color: #060717;
+    color: white;
+}
+
+.list-group a:hover{
+    background-color: blue;
+    color: white;
+}

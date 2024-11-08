@@ -1,0 +1,5 @@
+.page-header {
+  background: linear-gradient(rgba(22, 22, 22, 0.7), rgba(22, 22, 22, 0.7)),
+    url(../images/sample.jpg) center center no-repeat;
+  background-size: cover;
+}

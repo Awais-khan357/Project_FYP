@@ -1,0 +1,31 @@
+.footer-top {
+  padding: 42px 0 16px 0;
+}
+
+.footer .footer-top h3 {
+  font-size: 16px;
+  font-weight: bold;
+  position: relative;
+  padding-bottom: 12px;
+}
+
+.footer-top ul {
+  list-style: none;
+  padding: 0;
+  margin-left: 20px;
+  line-height: 2;
+}
+
+.footer-top ul li svg {
+  font-size: 12px;
+  margin-right: 3px;
+}
+.footer-top ul li a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+.footer-top ul li a:hover {
+  color: rgb(66, 157, 134);
+  border-bottom: 3px solid rgb(66, 157, 134);
+}
